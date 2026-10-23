@@ -14,7 +14,7 @@ Full stack web developer and Computer Systems Engineering student at UAI (Buenos
 
 **Certifications**
 
-Google Cloud Computing Foundations · Generative AI Leader learning path · 5 Google Cloud skill badges ([Credly](https://www.credly.com/users/lucas-gabriel-giovinazzo))
+Google Cloud Computing Foundations · Generative AI Leader and Cloud Digital Leader learning paths · 5 Google Cloud skill badges ([Credly](https://www.credly.com/users/lucas-gabriel-giovinazzo))
 
 **Languages:** Spanish (native), English (C1), Portuguese (C1)
 
